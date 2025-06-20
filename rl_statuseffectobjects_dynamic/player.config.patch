@@ -1,0 +1,6 @@
+[
+  { "op" : "add",
+    "path" : "/statusControllerSettings/primaryScriptSources/-",
+    "value" : "/stats/rl_statuseffectobjects_player_primary.lua"
+  }
+]

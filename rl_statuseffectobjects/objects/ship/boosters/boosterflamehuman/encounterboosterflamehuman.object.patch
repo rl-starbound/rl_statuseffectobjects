@@ -1,0 +1,26 @@
+[
+  [
+    { "op" : "test",
+      "path" : "/statusEffects",
+      "inverse" : true
+    },
+    { "op" : "add",
+      "path" : "/statusEffects",
+      "value" : [ ]
+    }
+  ],
+  [
+    { "op" : "add",
+      "path" : "/orientations/0/statusEffectArea",
+      "value" : [[1.0, 8.5], [-2, 8.875], [-5.0, 9.0], [-8.0625, 8.5625], [-10.875, 7.375], [-13.375, 5.375], [-15.0, 1.5], [-13.375, -2.375], [-10.875, -4.375], [-8.0625, -5.5625], [-5.0, -6.0], [-2, -5.875], [1.0, -5.5]]
+    },
+    { "op" : "add",
+      "path" : "/orientations/0/metaBoundBox",
+      "value" : [-15, -6, 2, 9]
+    },
+    { "op" : "add",
+      "path" : "/statusEffects/-",
+      "value" : { "stat" : "biomecoldImmunity", "amount" : 1.0 }
+    }
+  ]
+]

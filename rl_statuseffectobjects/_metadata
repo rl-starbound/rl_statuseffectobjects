@@ -1,0 +1,10 @@
+{
+  "author" : "rl.starbound",
+  "description" : "This mod enables certain objects from the base game to apply status effects (or blocking stats) to players within specified ranges of them.",
+  "friendlyName" : "Status Effect Objects",
+  "link" : "steam://url/CommunityFilePage/3503825442",
+  "name" : "rl_statuseffectobjects",
+  "steamContentId" : "3503825442",
+  "tags" : "Furniture and Objects|Mechanics",
+  "version" : "1.0.0"
+}

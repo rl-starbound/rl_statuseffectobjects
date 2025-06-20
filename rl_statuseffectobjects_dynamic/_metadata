@@ -1,0 +1,11 @@
+{
+  "author" : "rl.starbound",
+  "description" : "This mod enables certain objects from the base game to dynamically apply status effects (or blocking stats) to players within specified ranges of them, depending on the objects' state.",
+  "friendlyName" : "Dynamic Status Effect Objects",
+  "link" : "steam://url/CommunityFilePage/3503826647",
+  "name" : "rl_statuseffectobjects_dynamic",
+  "steamContentId" : "3503826647",
+  "requires" : ["rl_statuseffectobjects"],
+  "tags" : "Furniture and Objects|Mechanics",
+  "version" : "1.0.0"
+}
