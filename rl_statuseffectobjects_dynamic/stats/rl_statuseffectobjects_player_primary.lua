@@ -12,6 +12,8 @@ function init()
 end
 
 function update(dt)
+  previous_update(dt)
+
   self.rlStatusEffectObjectsUpdateTimer = self.rlStatusEffectObjectsUpdateTimer - dt
   if self.rlStatusEffectObjectsUpdateTimer <= 0 then
     local entityEffects = jarray()
